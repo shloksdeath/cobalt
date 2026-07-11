@@ -1,16 +1,16 @@
 {
-    "title": "processing queue",
-    "stub": "nothing here yet! try downloading something",
+    "title": "processing queue ^_^",
+    "stub": "nothing here yet! try downloading something >_<",
 
-    "state.waiting": "queued",
-    "state.retrying": "retrying",
-    "state.starting": "starting",
+    "state.waiting": "queued :3",
+    "state.retrying": "retrying ^_^",
+    "state.starting": "starting >_<",
 
-    "state.starting.fetch": "starting downloading",
-    "state.starting.remux": "starting remuxing",
-    "state.starting.encode": "starting transcoding",
+    "state.starting.fetch": "starting downloading :3",
+    "state.starting.remux": "starting remuxing ^_^",
+    "state.starting.encode": "starting transcoding >_<",
 
-    "state.running.remux": "remuxing",
-    "state.running.fetch": "downloading",
-    "state.running.encode": "transcoding"
+    "state.running.remux": "remuxing :3",
+    "state.running.fetch": "downloading ^_^",
+    "state.running.encode": "transcoding >_<"
 }

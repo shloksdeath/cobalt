@@ -1,5 +1,5 @@
 {
-    "status.default": "processing queue",
-    "status.completed": "processing queue. all tasks are completed.",
-    "status.ongoing": "processing queue. ongoing tasks."
+    "status.default": "processing queue ^_^",
+    "status.completed": "processing queue. all tasks are completed :3",
+    "status.ongoing": "processing queue. ongoing tasks >_<"
 }

@@ -1,13 +1,13 @@
 {
-    "link_area": "link input area",
-    "link_area.turnstile": "link input area. checking if you're not a robot.",
-    "clear_input": "clear input",
-    "download": "download",
-    "download.think": "processing the link...",
-    "download.check": "verifying download...",
-    "download.done": "downloading done",
-    "download.error": "downloading error",
+    "link_area": "link input area ^_^",
+    "link_area.turnstile": "link input area. checking if you're not a robot >_<",
+    "clear_input": "clear input :3",
+    "download": "download ^_^",
+    "download.think": "processing the link... >_<",
+    "download.check": "verifying download... :3",
+    "download.done": "downloading done ^_^",
+    "download.error": "downloading error >_<",
 
-    "tutorial.shortcut.photos": "add photos shortcut",
-    "tutorial.shortcut.files": "add files shortcut"
+    "tutorial.shortcut.photos": "add photos shortcut :3",
+    "tutorial.shortcut.files": "add files shortcut ^_^"
 }
